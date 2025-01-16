@@ -25,7 +25,9 @@ Passo 6:
 
 ![Alt text](./6.png "Optional title")
 
-Passo 7, colocar o URL do site a ser clonado, neste caso:
+Passo 7, confirmar o IP da maquina, o IP sera usado para entrar no site
+
+Passo 8, colocar o URL do site a ser clonado, neste caso:
 https://cursos.alura.com.br/loginForm
 
 Finalizando com as credenciais de exemplo:
