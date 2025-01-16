@@ -2,6 +2,7 @@
 Criação de um phishing atraves da ferramenta setoolkit no Kali Linux
 
 Passo 1 "sudo su": 
+
 ![Alt text](./1.png "Optional title")
 
 Passo 2 "setoolkit":
