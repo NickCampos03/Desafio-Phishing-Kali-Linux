@@ -28,7 +28,7 @@ Passo 6, digite 2 (Site Cloner):
 Passo 7, confirmar o IP da maquina, o IP sera usado para entrar no site
 
 Passo 8, colocar o URL do site a ser clonado, neste caso:
-https://cursos.alura.com.br/loginForm
+http://www.facebook.com
 
 Finalizando com as credenciais de exemplo:
 
